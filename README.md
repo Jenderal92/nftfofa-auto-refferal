@@ -1,4 +1,4 @@
-# nftnofa-auto-refferal
+# nftnova-auto-refferal
 
 Python 2.7
 
