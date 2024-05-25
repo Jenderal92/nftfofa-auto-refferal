@@ -1,10 +1,10 @@
-# nftfofa-auto-refferal
+# nftnofa-auto-refferal
 
 Python 2.7
 
-# WP-CVE-2023-5360
+# NFTNOVA AUTO REFF
 
-<p>NFTNoVA Auto Reff</p>
+<p>NFTNoVA Waitlist Auto Reff</p>
 
   Python 2.7
 
